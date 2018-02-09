@@ -74,9 +74,9 @@ This script can be used, if the source device/server is unable to `get` file rec
       
                           
 ### Code Location:
-Code can be found on github : <https://github.com/ahmedzbyr/sftp_data_collector>
-      
 
+Code can be found on github : <https://github.com/ahmedzbyr/sftp-simple-dc>
+      
 ### Code Usage
 
 ```python
